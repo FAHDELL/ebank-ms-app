@@ -17,7 +17,7 @@ Le dépôt contient les modules suivants :
 - `ebank-bot` : assistant IA (endpoint chat/chatStream, intégration MCP, Discord/Telegram).
 - `ebank-ang-front` : interface Angular (liste des comptes + interface chatbot).
 
-  ![Uploading Capture d'écran 2026-04-24 113831.png…]()
+  ![Capture d'écran](resources/Capture d'écran 2026-04-24 113831.png)
 
 
 ## ⚙️ Stack technique
